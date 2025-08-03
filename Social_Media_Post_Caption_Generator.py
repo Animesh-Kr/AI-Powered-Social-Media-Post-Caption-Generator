@@ -70,7 +70,7 @@ def generate_content_with_llm(keywords_input, post_type, platforms, num_generati
     Can generate multiple variations.
     """
     # The API key will be automatically provided by the Canvas environment
-    api_key = "AIzaSyBUoUHmjGztfv2tGzTMUzc5pf3UTMxw2xo"
+    api_key = ""#Your API Here
     api_url = f"https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent?key={api_key}"
 
     # Prepare the text prompt
@@ -281,3 +281,4 @@ st.markdown("---")
 st.markdown("💡 Tip: Be as specific as possible with your keywords for better results!")
 st.markdown("This generator uses an AI model (Gemini) for dynamic content creation, offering more creative and context-aware results.")
 st.markdown("Developed with Streamlit.")
+
