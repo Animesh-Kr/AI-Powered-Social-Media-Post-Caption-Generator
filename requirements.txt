@@ -1,0 +1,19 @@
+# Core Dependencies
+streamlit>=1.30.0
+requests>=2.31.0
+transformers>=4.36.0
+torch>=2.1.0
+
+# Configuration Management
+python-dotenv>=1.0.0
+
+# RAG Pipeline (Context-Aware Generation)
+langchain>=0.1.0
+langchain-community>=0.0.20
+faiss-cpu>=1.7.4
+sentence-transformers>=2.3.0
+
+# Optional: For enhanced features
+# faiss-gpu>=1.7.4  # GPU-accelerated FAISS (requires CUDA)
+# redis>=5.0.0  # For production caching
+# pytest>=7.4.0  # For testing

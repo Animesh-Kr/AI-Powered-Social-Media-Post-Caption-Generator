@@ -1,0 +1,12 @@
+# Core RAG Dependencies
+langchain>=0.1.0
+langchain-community>=0.0.20
+faiss-cpu>=1.7.4
+sentence-transformers>=2.3.0
+
+# Optional: GPU-accelerated FAISS
+# faiss-gpu>=1.7.4
+
+# Alternative vector databases
+# chromadb>=0.4.0
+# pinecone-client>=2.2.0
