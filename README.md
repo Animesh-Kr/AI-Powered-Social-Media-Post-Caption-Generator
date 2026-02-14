@@ -429,22 +429,23 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 👤 Author
 
-**[Your Name]**
+**Animesh Kumar**
 
-- 🎓 MSc Advanced Computer Science, Newcastle University
-- 💼 [LinkedIn](https://linkedin.com/in/your-profile)
-- 🐙 [GitHub](https://github.com/your-username)
-- 📧 [Email](mailto:your.email@example.com)
+- 🎓 B.Tech Computer Science & Engineering, DR. A.P.J. Abdul Kalam Technical University
+- 💼 [LinkedIn](https://www.linkedin.com/in/animeshakumar/)
+- 🐙 [GitHub](https://github.com/Animesh-Kr)
+- 📧 [Email](mailto:kranimesh2004@gmail.com)
 
 ---
 
 ## 🙏 Acknowledgments
 
-- **Newcastle University** - Academic supervision and support
-- **IBM** - Industry partnership and guidance
-- **Google** - Gemini API access
-- **HuggingFace** - Transformers library and pre-trained models
-- **Streamlit** - Rapid UI development framework
+- **Google Gemini Team** for the powerful AI API
+- **IBM Skill Build Program** and **Edunet Foundation** for partnership and support
+- **DR. A.P.J. Abdul Kalam Technical University** for academic guidance
+- **HuggingFace** for Transformers library
+- **Streamlit** for the amazing web framework
+- **Open Source Community** for the incredible tools and libraries
 
 ---
 
