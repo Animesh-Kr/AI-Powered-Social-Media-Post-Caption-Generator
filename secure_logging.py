@@ -152,7 +152,7 @@ if __name__ == "__main__":
     
     logger.info("This is a normal log message")
     logger.warning("This is a warning")
-    logger.error("This is an error with API key=AIzaSyDnRO9YsFSeSL38o5g6SGCIePcAmAdKDPQ")
+    logger.error("This is an error with API key=Your_API_Key")
     logger.debug("Debug message with token=abc123def456ghi789")
     
     print("\nCheck the logs/ directory for output files!")
