@@ -10,7 +10,7 @@ If you saw your API key in an error message, it has been exposed and should be *
 
 1. **Revoke the Exposed Key**
    - Go to [Google AI Studio](https://aistudio.google.com/app/apikey)
-   - Find the key: `AIzaSyDnRO9YsFSeSL38o5g6SGCIePcAmAdKDPQ`
+   - Find the key: `Your_API_Key`
    - Click "Delete" or "Revoke"
 
 2. **Generate a New Key**
